@@ -1,0 +1,46 @@
+footer{
+    text-align: center;
+}
+header{
+    background-color: #f8f9fa ;
+}
+#home{
+    margin-top: 63px;
+    background-color: #FEEAE9;
+}
+.banner-img{
+    width: 400px;
+}
+.banner-price{
+    color: #FF136F;
+    font-size: 2.5rem;
+}
+.custom-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color:white;
+    font-size: .9rem;
+    padding: 9px 25px;
+    border-radius: 8px;
+}
+.categories img{
+    width: 35%;
+}
+#cat1, #cat2, #cat3{
+    padding: 10px 30px;
+    color: white;
+    border-radius: 8px ;
+}
+#cat1{
+    background-color: orange;
+}
+#cat2{
+    background-color: orchid;
+}
+#cat3{
+    background-color: blue;
+}
+
+#subscribe{
+    background-color: #fceae8;
+    padding: 5% 0;
+}
